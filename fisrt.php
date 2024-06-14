@@ -1,3 +1,0 @@
-<?phP
-echo"first page";
-?>
